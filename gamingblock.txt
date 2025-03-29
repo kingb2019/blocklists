@@ -11,42 +11,42 @@ bungie.net
 battle.net
 ubisoft.com
 rockstargames.com
-origin.com                        # EA's gaming platform
-ea.com                            # Electronic Arts (EA) official site
-eaoplay.com                       # EA Play, subscription service for EA games
-eaaccess.com                      # EA Access portal
-steampowered.com                  # Steam's primary domain
-discord.com                       # Popular communication platform for gamers
-humblebundle.com                  # Distributor of games and bundles
-gog.com                           # Good Old Games marketplace
-twitch.tv                         # Game streaming platform
-itch.io                           # Indie game distribution platform
-klei.com                          # Developer of games like Don't Starve
-zenimax.com                       # Parent company of Bethesda
-bethesda.net                      # Bethesda official site
-bioware.com                       # Developer of Mass Effect, Dragon Age
-square-enix.com                   # Developer of Final Fantasy, other RPGs
-enmasse.com                       # Publisher known for MMOs like TERA
-trionworlds.com                   # Developer of online games like Rift
-my.games                         # Parent company for various online games
-pogo.com                          # Online casual gaming
-bigfishgames.com                  # Casual game portal
-miniclip.com                      # Free online games platform
-kongregate.com                    # Free online games platform
-armatitle.com                     # ARMA series
-bohemia.net                       # DayZ and ARMA games
-bungie.com                        # Destiny and other Bungie games
-wargaming.net                     # Online war games like World of Tanks
-supercell.com                     # Developer of Clash of Clans, Clash Royale
-zynga.com                         # Social game developer
-king.com                          # Developer of Candy Crush
-nexon.net                         # Publisher of online games
-playcitadel.com                   # Game publisher
-ncsoft.com                        # Publisher of MMOs like Lineage, Aion
-perfectworld.com                  # Publisher known for MMOs
-igame.com                         # Online game portal
-gameforge.com                     # European game publisher
-hi-rezstudios.com                 # Developer of SMITE, Paladins
-grindinggear.com                  # Developer of Path of Exile
-stunlockstudios.com               # Developer of Battlerite
-blockchaingamer.net               # Blockchain games related services
+origin.com
+ea.com
+eaoplay.com
+eaaccess.com
+steampowered.com
+discord.com
+humblebundle.com
+gog.com
+twitch.tv
+itch.io
+klei.com
+zenimax.com
+bethesda.net
+bioware.com
+square-enix.com
+enmasse.com
+trionworlds.com
+my.games
+pogo.com
+bigfishgames.com
+miniclip.com
+kongregate.com
+armatitle.com
+bohemia.net
+bungie.com
+wargaming.net
+supercell.com
+zynga.com
+king.com
+nexon.net
+playcitadel.com
+ncsoft.com
+perfectworld.com
+igame.com
+gameforge.com
+hi-rezstudios.com
+grindinggear.com
+stunlockstudios.com
+blockchaingamer.net
