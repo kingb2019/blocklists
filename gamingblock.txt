@@ -50,3 +50,5 @@ hi-rezstudios.com
 grindinggear.com
 stunlockstudios.com
 blockchaingamer.net
+p2p-ord1.discovery.steamserver.net
+autopatch.juno.ea.com
